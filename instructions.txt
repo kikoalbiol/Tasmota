@@ -1,3 +1,7 @@
+https://tasmota.github.io/docs/Sensor-API/#important-things-to-consider
+
+
+
 git remote add upstream https://github.com/arendst/tasmota
 
 git fetch upstream
